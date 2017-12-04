@@ -1,7 +1,34 @@
+
 body
 {
 	font-family: 'Roboto';
 	color: black;
+	background-image: url("../source/leaves.jpg") !important;
+	background-repeat:no-repeat;
+	background-size: cover;
+
+}
+
+h1 
+{
+    font-family: 'Roboto', sans-serif !important;;
+}
+
+h2 
+{
+    font-family: 'Roboto', sans-serif !important;
+}
+
+h3 
+{
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.nav_css
+{
+    font-family: 'Roboto', sans-serif;
+    color: #474F3E;
+    font-size: large;
 }
 
 div#banner
@@ -33,9 +60,7 @@ div#budget
 	opacity: .85;
 }
 
-.nav_css
-{
-    font-family: 'Roboto', sans-serif;
-    color: #474F3E;
-    font-size: large;
-}
+
+
+
+
